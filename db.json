@@ -1,6 +1,37 @@
 {
   "users": [
-    { "id": 1, "name": "Myra" }
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Taylor DuBuque",
+      "id": 2
+    },
+    {
+      "name": "Craig Glover",
+      "id": 3
+    },
+    {
+      "name": "Dwayne Mann",
+      "id": 4
+    },
+    {
+      "name": "Mr. Reginald Cartwright",
+      "id": 5
+    },
+    {
+      "name": "Sheila Kub V",
+      "id": 6
+    },
+    {
+      "name": "Brandi Hilll",
+      "id": 7
+    },
+    {
+      "name": "Carlos Heaney",
+      "id": 8
+    }
   ],
   "albums": [],
   "photos": []
