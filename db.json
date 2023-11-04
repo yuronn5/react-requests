@@ -37,7 +37,73 @@
       "userId": 1,
       "title": "Intelligent Metal Chair",
       "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Refined Wooden Mouse",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Refined Fresh Pizza",
+      "id": 20
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=131321974226944",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8760848006774784",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7987603764674560",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6136844372672512",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1892919233478656",
+      "id": 7
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4722047483641856",
+      "id": 8
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3768310434889728",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1726998363766784",
+      "id": 10
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2511497139847168",
+      "id": 11
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1982599769620480",
+      "id": 12
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7366610805325824",
+      "id": 13
+    }
+  ]
 }
