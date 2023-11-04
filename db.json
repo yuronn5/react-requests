@@ -5,10 +5,6 @@
       "name": "Myra"
     },
     {
-      "name": "Taylor DuBuque",
-      "id": 2
-    },
-    {
       "name": "Luz Abshire",
       "id": 13
     },
@@ -23,34 +19,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Bespoke Metal Bike",
       "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Gorgeous Cotton Chicken",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Bronze Table",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Licensed Wooden Ball",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Frozen Bacon",
-      "id": 15
     },
     {
       "userId": 1,
